@@ -17,3 +17,7 @@ Font Family: [Karla](https://fonts.google.com/specimen/Karla?query=karla)
 - Using CSS resets is necessary.
 - Use semantic tags and keep the nesting and indentation proper.
 - Work on typography in detail.
+JJ
+Hjj
+Hi
+vbnb
